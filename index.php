@@ -15,12 +15,13 @@
     </head>
     <body>
         <nav class="run">
+      
             <marquee behavior="scroll" direction="left" style="color:rgb(20, 20, 190);">WELCOME TO BMSCE LIBRARY !!</marquee>
             
         </nav>
         <nav class="nav_head">
             <div class="logo"><img src="./images/icon.png"alt="company logo"></div>
-            <h1>BMSCE LIBRARY</h1>
+            <h1>BMSCE LIBRARYY</h1>
             <div class="right_Nav">
                 <button class="button button1" ><a href="./logintry.html">login</a></button>
                 <button class="button button1"><a href="./registration.html">sign up</a></button>
